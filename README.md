@@ -1,6 +1,7 @@
-# restirint
+# Restirint (Version 2)
 
-A new Flutter project.
+Perbedaan dengan Restirint sebelumnya Restirint Version 2 sudah menggunakan API dalam pengambilan data dari internet. Provider State Management menjadi pilihan untuk 
+digunakan pada aplikasi Restirint ini.
 
 ## Getting Started
 
