@@ -1,7 +1,12 @@
 # Restirint (Version 2)
 
+<img src="assets/1.png"/>
+
 Perbedaan dengan Restirint sebelumnya Restirint Version 2 sudah menggunakan API dalam pengambilan data dari internet. Provider State Management menjadi pilihan untuk 
 digunakan pada aplikasi Restirint ini.
+
+## Author(s)
+**Tedo Haris Chandra** ([Follow my Instagram](https://instagram.com/dooooo.dev))
 
 ## Getting Started
 
